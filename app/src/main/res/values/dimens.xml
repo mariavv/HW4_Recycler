@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">14sp</dimen>
+    <dimen name="spacing">10sp</dimen>
+    <dimen name="bottomMarginLeft">56dp</dimen>
+    <dimen name="buyTop">8dp</dimen>
+</resources>

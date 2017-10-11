@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мои полисы</string>
+    <string name="osago">ОСАГО</string>
+    <string name="casco">КАСКО</string>
+    <string name="medical">Медицинское страхование</string>
+    <string name="realty">Имущество</string>
+</resources>
